@@ -1,6 +1,8 @@
 # ASUS MAXIMUS VII HERO (BIOS - 3503.BIN)
 1ARYX011 BIOS for ASUS MAXIMUS VII HERO Motherboard (04/18/2018 3503) 07/25/2020
 
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V67FWZ82WTFTW)
+
 Builder: iEngineer
 
 Update: (3503.BIN) Required programmer: Yes
